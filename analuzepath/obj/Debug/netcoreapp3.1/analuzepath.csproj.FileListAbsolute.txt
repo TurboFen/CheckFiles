@@ -1,0 +1,14 @@
+C:\Users\Александр\source\repos\analuzepath\analuzepath\bin\Debug\netcoreapp3.1\analuzepath.exe
+C:\Users\Александр\source\repos\analuzepath\analuzepath\bin\Debug\netcoreapp3.1\analuzepath.deps.json
+C:\Users\Александр\source\repos\analuzepath\analuzepath\bin\Debug\netcoreapp3.1\analuzepath.runtimeconfig.json
+C:\Users\Александр\source\repos\analuzepath\analuzepath\bin\Debug\netcoreapp3.1\analuzepath.runtimeconfig.dev.json
+C:\Users\Александр\source\repos\analuzepath\analuzepath\bin\Debug\netcoreapp3.1\analuzepath.dll
+C:\Users\Александр\source\repos\analuzepath\analuzepath\bin\Debug\netcoreapp3.1\analuzepath.pdb
+C:\Users\Александр\source\repos\analuzepath\analuzepath\obj\Debug\netcoreapp3.1\analuzepath.csproj.AssemblyReference.cache
+C:\Users\Александр\source\repos\analuzepath\analuzepath\obj\Debug\netcoreapp3.1\analuzepath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\source\repos\analuzepath\analuzepath\obj\Debug\netcoreapp3.1\analuzepath.AssemblyInfoInputs.cache
+C:\Users\Александр\source\repos\analuzepath\analuzepath\obj\Debug\netcoreapp3.1\analuzepath.AssemblyInfo.cs
+C:\Users\Александр\source\repos\analuzepath\analuzepath\obj\Debug\netcoreapp3.1\analuzepath.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\analuzepath\analuzepath\obj\Debug\netcoreapp3.1\analuzepath.dll
+C:\Users\Александр\source\repos\analuzepath\analuzepath\obj\Debug\netcoreapp3.1\analuzepath.pdb
+C:\Users\Александр\source\repos\analuzepath\analuzepath\obj\Debug\netcoreapp3.1\analuzepath.genruntimeconfig.cache
